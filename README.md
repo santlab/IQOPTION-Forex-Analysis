@@ -1,6 +1,6 @@
-# IPOPTION Forex Analysis
+# IQOPTION Forex Analysis
 
-This project focuses on market analysis and signal generation for Forex trading using the IPOPTION chart. It provides tools for loading market data, analyzing it with various indicators, generating trading signals, and evaluating their performance.
+This project focuses on market analysis and signal generation for Forex trading using the IQOPTION chart. It provides tools for loading market data, analyzing it with various indicators, generating trading signals, and evaluating their performance.
 
 ## Project Structure
 
